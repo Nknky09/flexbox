@@ -1,7 +1,11 @@
 .container {
   border: 5px solid #ffcc5c;
+  padding: 10px;
+  background-color: rgb(193, 240, 240);
+  display: flex;
+  
 }
 
-.container {
-  display: flex;
+.container div {
+  width: 200px;
 }
